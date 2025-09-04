@@ -1,6 +1,6 @@
 # GENCODE v46 Genome Annotation Analysis
 
-**Author:** Nisha MadhavaPrasad  
+**Author:** Nisha MadavaPrasad  
 **Project Type:** R Markdown Analysis  
 **Objective:** Analyze human genome annotation data from **GENCODE v46** to explore genes and transcripts, and generate summary statistics and visualizations.
 

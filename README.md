@@ -48,7 +48,7 @@ This project follows a clear and reproducible workflow in **R**:
   - 1 transcript  
   - 2–5 transcripts  
   - More than 5 transcripts  
-- Saves the table as a CSV file in `results/`.
+- Saves the table as a CSV file.
 
 ### 4. Data Visualization
 - Generates a **stacked bar plot** showing gene distribution across transcript categories.

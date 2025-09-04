@@ -67,7 +67,7 @@ This project follows a clear and reproducible workflow in **R**:
 
 1. Open the R Markdown notebook:
    ```R
-   notebooks/gencode.Rmd
+   gencode.Rmd
    ```
 2. Knit the file in **RStudio** or run it chunk by chunk.
 3. The workflow automatically:

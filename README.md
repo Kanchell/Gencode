@@ -52,7 +52,6 @@ This project follows a clear and reproducible workflow in **R**:
 
 ### 4. Data Visualization
 - Generates a **stacked bar plot** showing gene distribution across transcript categories.
-- Saves the plot as `transcript_category_distribution.png`.
 
 ---
 
